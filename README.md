@@ -1,0 +1,2 @@
+# fastapi-trail
+Learning fastapi
